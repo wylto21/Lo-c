@@ -2,7 +2,7 @@ puts "Salut et bienvenue dans mon fichier ruby dans github"
 a = "Comment tu t'appels?"
 puts a
 b = gets.chomp
-puts "Que tu veux faire dans ce fichier: Parcourir ou Modifier"
+puts "Que veux-tu faire dans ce fichier: Parcourir ou Modifier"
 c = gets.chomp
 if c == "Parcourir"
 puts "permission accordé" 
